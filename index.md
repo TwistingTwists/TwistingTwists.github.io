@@ -1,5 +1,9 @@
 <!-- ##[The GPS of Brain - Talks @ Google.][youtube] -->
-[![The GPS of Brain by John 'O Keefe'](http://img.youtube.com/vi/wNIQSAPJjjs/0.jpg)](http://www.youtube.com/watch?v=wNIQSAPJjjs)
+# The GPS of Brain by John 'O Keefe
+
+Understanding how Brain helps in navigation, anatomical perspective.
+
+[![The GPS of Brain by John 'O Keefe](http://img.youtube.com/vi/wNIQSAPJjjs/0.jpg)](http://www.youtube.com/watch?v=wNIQSAPJjjs)
 
 * Famous cab drivers of london have BIGGER hippocampus. (where `place cells` reside.)
 * When people stop being cab drivers, the size of hippocampus  reduces! 
@@ -32,7 +36,7 @@ The cells still fire in the right place if s/he has cues in the starting and the
 
 > So, how many maximum numbers of environments can we distinguish? 
 
-	There are different [quantised] levels of representations (QLoR) of the place (from local ie. a room, to global ie. city or state). In different parts of hippocampus, these QLoRs are stored and communicated. No one knows how - the communication - hence calculating the max. number of environments is non-trivial. 
+There are different [quantised] levels of representations (QLoR) of the place (from local ie. a room, to global ie. city or state). In different parts of hippocampus, these QLoRs are stored and communicated. No one knows how - the communication - hence calculating the max. number of environments is non-trivial. 
 
 This is coherent with the idea of 'invariant representation' mentioned in 'On Intelligence by Jeff Hawkins' which mentions the 6 layered neocortex and each level representing different [level] information in order to create an invariant representation that can further be used for other tasks (?)
 // TODO : re-read 'On Intelligence' and substantiate [think] more.
@@ -42,17 +46,15 @@ Problem? :
 
 > How is the structure of hippocampus different from other areas of the brain and how does it, if at all, explain location of place cells?
 
-	Classic, function-structure relationship question for brain parts! Hippocampus is a part of primitive cortex. Hippocampus does not have all the layers of cells that are present in neo cortex. Very simple structure.
+Classic, function-structure relationship question for brain parts! Hippocampus is a part of primitive cortex. Hippocampus does not have all the layers of cells that are present in neo cortex. Very simple structure.
 
-	If seen from computational neuroscience perspective, it is continuous attractive network - because you get huge connectivity between principal cell types. Cells talk to each other at lot and to a lot of cells within. Associated network because each fibre that comes in runs along many many cells ie. one incomer fibre provides information to a lot of cells in hippocampus at the same time. + Existence of first-past-the-post inhibitory networks (who fires first inhibits others from firing within certain radius)
+If seen from computational neuroscience perspective, it is continuous attractive network - because you get huge connectivity between principal cell types. Cells talk to each other at lot and to a lot of cells within. Associated network because each fibre that comes in runs along many many cells ie. one incomer fibre provides information to a lot of cells in hippocampus at the same time. + Existence of first-past-the-post inhibitory networks (who fires first inhibits others from firing within certain radius)
 
 > How does gravity affect navigation? What if the experiments are done on tilted platform?
 	
-	If you turn animal upside down, the signal is lost. Most of the work has been on 2D. There IS a gravity signal. But it is not studied very much. 
+If you turn animal upside down, the signal is lost. Most of the work has been on 2D. There IS a gravity signal. But it is not studied very much. 
 
 ##### What else I think?
 
 * if narrative in spatial frame => hippocampus active during navigation.  -- how about the same in time? any CORRELATION?
-
-[youtube] : https://www.youtube.com/watch?v=wNIQSAPJjjs "The GPS of Brain by John'O Keefe @ Talks at Google"
 
