@@ -27,7 +27,7 @@ Even when the mouse does not PHYSICALLY run down the environment (passive mode i
 
 
 #### Path Integration
-The cells still fire in the right place if he has cues in the starting and the lights are turned off, ie., s/he has hints (~50% of the time) to her/his initial position based on which, using her/his own initial frame, s/he can calculate her/his navigational path (ie. place cells fire in same place again!) BUT, if s/he had no cues in the starting, s/he has very little idea where s/he is and cells do not fire where the cues were earlier (because s/he doesn't know where s/he is!!)
+The cells still fire in the right place if s/he has cues in the starting and the lights are turned off, ie., s/he has hints (~50% of the time) to her/his initial position based on which, using her/his own initial frame, s/he can calculate her/his navigational path (ie. place cells fire in same place again!) BUT, if s/he had no cues in the starting, s/he has very little idea where s/he is and cells do not fire at place where the cues were placed earlier.
 
 
 > So, how many maximum numbers of environments can we distinguish? 
@@ -56,21 +56,3 @@ Problem? :
 
 [youtube] : https://www.youtube.com/watch?v=wNIQSAPJjjs "The GPS of Brain by John'O Keefe @ Talks at Google"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// todo - remove the 'sublime text '
